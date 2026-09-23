@@ -1,0 +1,18 @@
+# Python
+selenium-python/.venv/
+selenium-python/reports/
+__pycache__/
+*.pyc
+
+# Node
+cypress-js/node_modules/
+cypress-js/cypress/screenshots/
+cypress-js/cypress/videos/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
